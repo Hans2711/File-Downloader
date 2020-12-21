@@ -9,5 +9,3 @@
  Grabbing methods like HTTP Debuggers dont reveal a certain url to a file and the data in the reqeust header is encrypted
  
  I know the encryption is very weak just replace it with some real AES encryption
- 
-https://streamable.com/v1uy1y
